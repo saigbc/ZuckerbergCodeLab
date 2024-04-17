@@ -11,10 +11,14 @@ This is the Side Panel. You can access the Side Panel from the sidePanel.js file
 
 > Note: You are allowed to use *third-party packages*.
 
-### For Example
+### Example
 - Bootstrap
 - Fontawesome
 - Googlefont
 
 ## You can install using:
 `npm install create-react-app`
+
+[Link](https://github.com/fishbraised/copyZuckerbergCodeLab/edit/main/README.md)
+
+![Image](https://res.cloudinary.com/dkoqbt4pc/image/upload/v1689508844/Food%20Munch%20Website/Thanking%20Customers.png)
